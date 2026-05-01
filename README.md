@@ -1,6 +1,7 @@
 # Global Economic Data Preprocessing 🌍🐍
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/Colab.ipynb)
+
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Elahehp/Global-Economic-Data-Preprocessing/blob/main/Colab.ipynb)
 
 ## 📌 Project Overview
 This project focuses on the **Data Engineering** and **Exploratory Data Analysis (EDA)** of Global GDP per Capita. Economic datasets from international sources (IMF, World Bank, and UN) are often inconsistent and contain extreme wealth outliers that skew global averages. 
