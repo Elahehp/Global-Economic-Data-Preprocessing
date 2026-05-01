@@ -23,6 +23,5 @@ I developed a Python-based preprocessing pipeline to merge these disparate sourc
 
 
 ---
-### 🔗 Quick Links
-- [**Open Interactive Notebook**](https://colab.research.google.com/drive/YOUR_COLAB_FILE_ID_HERE)
+### 🔗 Quick Link
 - [**Back to Main Portfolio**](https://github.com/Elahehp)
